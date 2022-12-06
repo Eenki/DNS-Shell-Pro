@@ -1,7 +1,7 @@
 <h1>DNS-Shell-Pro</h1>
 
 
-<p>DNS-Shell-Pro is an interactive Shell over DNS channel. Based on the <a href="https://github.com/sensepost/DNS-Shell">DNS-Shell</a> tool, dns-shell-pro adds support for bash script payloads of the linux version, pointing out remote control of windows and linux machines. The server is Python based and can run on any operating system that has python installed, the payload is an encoded PowerShell or Bash command.</p>
+<p>DNS-Shell-Pro is an interactive Shell over DNS channel. Based on the <a href="https://github.com/sensepost/DNS-Shell">DNS-Shell</a> tool, dns-shell-pro adds support for bash script payloads of the linux version, and supports remote control of windows and linux machines. The server is Python based and can run on any operating system that has python installed, the payload is an encoded PowerShell or Bash command.</p>
 
 
 
